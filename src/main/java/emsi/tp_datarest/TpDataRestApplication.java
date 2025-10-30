@@ -35,15 +35,15 @@ public class TpDataRestApplication implements CommandLineRunner {
 
 
         etudiantRepository.save(Etudiant.builder()
-                .nom("agnaou")
-                .prenom("ikram")
-                .genre(Genre.Femme)
+                .nom("Khchichine")
+                .prenom("Mouhssine")
+                .genre(Genre.Homme)
                 .centre(c1)
                 .build());
 
         etudiantRepository.save(Etudiant.builder()
-                .nom("walid")
-                .prenom("el amri")
+                .nom("Grod")
+                .prenom("Ayoub")
                 .genre(Genre.Homme)
                 .centre(c1)
                 .build());
