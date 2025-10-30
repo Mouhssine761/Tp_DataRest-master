@@ -1,13 +1,13 @@
-package org.example.appresttemplate;
+package org.example.appresttemplate2;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class AppRestTemplateApplication {
+public class AppRestTemplate2Application {
 
     public static void main(String[] args) {
-        SpringApplication.run(AppRestTemplateApplication.class, args);
+        SpringApplication.run(AppRestTemplate2Application.class, args);
     }
 
 }

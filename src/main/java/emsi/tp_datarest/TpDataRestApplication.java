@@ -1,9 +1,5 @@
 package emsi.tp_datarest;
 
-
-
-
-
 import emsi.tp_datarest.enums.Genre;
 import emsi.tp_datarest.models.Centre;
 import emsi.tp_datarest.models.Etudiant;
